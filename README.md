@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# La Mansión Velarde
-
 ## Compilar
 
 ```bash
